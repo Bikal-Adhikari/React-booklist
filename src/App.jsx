@@ -1,9 +1,10 @@
 import "./App.css";
+import Book from "./components/Book";
 
 function App() {
   return (
     <>
-      <h2>React Components</h2>
+      <Book />
     </>
   );
 }
